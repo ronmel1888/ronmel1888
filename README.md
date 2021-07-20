@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Ron</h1>
 <h3 align="center">FullStack Developer</h3>
------
+<img align="center" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-45667078-ff60-4e7a-9e9c-a909c813f8ff-v1.png?transparent=1&palette=1" alt="ronmel1888" height="300" width="300" margin-left="50%"  />
+
+
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ronmelnitcki/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392719-a1e2ee00-b643-11eb-8f57-aed31feded47.png" alt="ronmel1888" height="40" width="40" /></a>
 <a href="mailto:ronmel1888@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="ronmel1888" height="42" width="42" /></a>
 </p>
------
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
